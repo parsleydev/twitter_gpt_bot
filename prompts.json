@@ -1,0 +1,21 @@
+{
+  "prompts": [
+    "Generate tweet about {topic} from a unique perspective or angle.",
+    "Promote our services on fiverr {topic}"
+  ],
+  "topics": [
+    "importance of website performance for SEO",
+    "importance of website performance for UX",
+    "importance of logo design for brand recognition",
+    "importance of logo design for brand identity",
+    "importance of mobile application design for user experience",
+    "importance of mobile application performance for user experience"
+  ],
+  "attributes": ["Use an informal tone", "Use relaxed punctuation"],
+  "wildcards": [
+    "Mention a relevant hashtag",
+    "Mention Fiverr in your tweet",
+    "Use a relevant emoji"
+  ],
+  "constraints": ["Write your response as a tweet with at most 280 characters"]
+}
